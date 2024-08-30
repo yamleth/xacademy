@@ -1,9 +1,10 @@
+
 //aritmético
 let a = 5;
 let = 10;
 console.log(a)
 
-//otras operaciones
+/*//otras operaciones
 let b = 5;
  b+=10;
-console.log(b)
+console.log(b)*/
